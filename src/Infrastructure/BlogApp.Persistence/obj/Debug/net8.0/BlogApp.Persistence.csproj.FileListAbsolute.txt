@@ -1,0 +1,17 @@
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\BlogApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\BlogApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\BlogApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\BlogApp.Persistence.AssemblyInfo.cs
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\BlogApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\bin\Debug\net8.0\BlogApp.Persistence.deps.json
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\bin\Debug\net8.0\BlogApp.Persistence.dll
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\bin\Debug\net8.0\BlogApp.Persistence.pdb
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\bin\Debug\net8.0\BlogApp.Application.dll
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\bin\Debug\net8.0\BlogApp.Domain.dll
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\bin\Debug\net8.0\BlogApp.Application.pdb
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\bin\Debug\net8.0\BlogApp.Domain.pdb
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\BlogApp.Persistence.csproj.CopyComplete
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\BlogApp.Persistence.dll
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\refint\BlogApp.Persistence.dll
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\BlogApp.Persistence.pdb
+C:\Users\Pc\source\repos\BlogApp\src\Infrastructure\BlogApp.Persistence\obj\Debug\net8.0\ref\BlogApp.Persistence.dll

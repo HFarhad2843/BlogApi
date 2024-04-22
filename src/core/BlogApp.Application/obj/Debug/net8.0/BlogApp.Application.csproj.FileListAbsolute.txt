@@ -1,0 +1,15 @@
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\bin\Debug\net8.0\BlogApp.Application.deps.json
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\bin\Debug\net8.0\BlogApp.Application.dll
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\bin\Debug\net8.0\BlogApp.Application.pdb
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\bin\Debug\net8.0\BlogApp.Domain.dll
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\bin\Debug\net8.0\BlogApp.Domain.pdb
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.AssemblyInfo.cs
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.csproj.CopyComplete
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.dll
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\refint\BlogApp.Application.dll
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\BlogApp.Application.pdb
+C:\Users\Pc\source\repos\BlogApp\src\core\BlogApp.Application\obj\Debug\net8.0\ref\BlogApp.Application.dll
